@@ -17,3 +17,8 @@ or directly open the file
 
 ## Utils
  - ``./utils/get_video_info.py``: With this tool you can see the info of any video. The info includes the **width**, **height** and **FPS** of the video.
+
+### Notes:
+Thanks for downloading *- vo1d_s*
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Vo1dAbyss/BootMaker&type=Date)](https://star-history.com/#Vo1dAbyss/BootMaker&Date)
