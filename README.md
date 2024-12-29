@@ -16,4 +16,4 @@ python main.py
 or directly open the file
 
 ## Utils
- - Get video info: With this tool you can see the info of any video. The info includes the **width**, **height** and **FPS** of the video.
+ - ``./utils/get_video_info.py``: With this tool you can see the info of any video. The info includes the **width**, **height** and **FPS** of the video.
